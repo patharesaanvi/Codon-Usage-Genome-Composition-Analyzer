@@ -1,0 +1,1 @@
+Developed a Python toolkit to parse FASTA genomes and compute nucleotide composition, GC content, codon frequencies, and amino-acid usage, producing structured output for comparative genomic analyses.
